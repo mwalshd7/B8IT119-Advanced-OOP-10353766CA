@@ -1,0 +1,4 @@
+﻿CREATE PROCEDURE uspGetStudents
+AS
+SELECT * FROM Student
+GO
